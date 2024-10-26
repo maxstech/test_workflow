@@ -12,4 +12,4 @@ func MaxInt(a, b int) int {
 	return b
 }
 
-/// zaebis - ne zaebis
+/// zaebis - ne zaebis - budet - zaebis
